@@ -10,9 +10,22 @@ To write a Python program that merges **two dictionaries** and combines their ke
 3. Call the `merge()` function and print the merged dictionary.
 
 ## 🧾 Program
+```
+import math
+class cse:
+    def mech(self, r):
+        area = math.pi * r * r
+        return area
+radius = float(input("Enter the radius of the circle: "))
+obj = cse()
+result = obj.mech(radius)
 
-Add code here
+print("Area of the circle is:", result)
+```
 
 ## Output
 
+<img width="548" height="252" alt="image" src="https://github.com/user-attachments/assets/9d3003bf-9009-49d2-a8de-8f4ac4be37f9" />
+
 ## Result
+If the user enters a radius, the program calculates the area using
